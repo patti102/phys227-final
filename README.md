@@ -11,8 +11,6 @@
 
 We will now get really real with coupled differential equations in that we will implement not just a set of two, but rather, three equations, x, y, and z. Moreover, we are now adding some non-linearity, as two of the equations, x and z, are now combined in the relation zx. Let's look at those equations now.
 
-$$\dotx$$
-
 ## Assessment
 
 
