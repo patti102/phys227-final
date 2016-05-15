@@ -54,5 +54,3 @@ function run()
     end
     x_array, y_array, z_array
 end
-
-@time run()
