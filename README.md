@@ -23,7 +23,7 @@ We will ultimately generate bifurcation diagrams for x, y, and z by varying the 
 
 ## Assessment
 
-
+This was a fun final. I think that it combined the themes of the class effectively and I liked the Julia extra credit, which was both appropriately weighted and educational. I was definitely forced to think and learn things. This didn't take all that long. It was cool to see the other side of the production of bifurcation diagrams. All in all a great final and a great semester as a whole.
 
 ## Honor Pledge
 
