@@ -3,7 +3,7 @@
 
 **Author:** Taylor Patti
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/phys227-final.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/phys227-final)
+[![Build Status](https://travis-ci.org/patti102/phys227-final.svg?branch=master)](https://travis-ci.org/patti102/phys227-final)
 
 **Due date:** 2016/04/28
 
